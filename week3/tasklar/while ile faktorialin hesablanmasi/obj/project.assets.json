@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
       "projectName": "while ile faktorialin hesablanmasi",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile faktorialin hesablanmasi\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile faktorialin hesablanmasi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

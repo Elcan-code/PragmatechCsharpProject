@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
       "projectName": "vurma cedveli",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\vurma cedveli\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\vurma cedveli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

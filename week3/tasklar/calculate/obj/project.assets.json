@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\calculate\\calculate.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\calculate\\calculate.csproj",
       "projectName": "calculate",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\calculate\\calculate.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\calculate\\calculate.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\calculate\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\calculate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

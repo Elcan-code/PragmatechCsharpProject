@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
       "projectName": "menfi musbet",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\menfi musbet\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\menfi musbet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

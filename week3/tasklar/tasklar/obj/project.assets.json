@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
       "projectName": "2.Bal Ortalamasinin Hesablanmasi",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\tasklar\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\tasklar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

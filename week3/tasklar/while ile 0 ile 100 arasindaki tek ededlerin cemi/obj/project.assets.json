@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
       "projectName": "while ile 0 ile 100 arasindaki tek ededlerin cemi",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

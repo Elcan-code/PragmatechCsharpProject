@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual App\\githubtest\\week3\\tasklar\\exam\\exam.csproj": {}
+    "D:\\Visual App\\git\\week3\\tasklar\\exam\\exam.csproj": {}
   },
   "projects": {
-    "D:\\Visual App\\githubtest\\week3\\tasklar\\exam\\exam.csproj": {
+    "D:\\Visual App\\git\\week3\\tasklar\\exam\\exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\exam\\exam.csproj",
+        "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\exam\\exam.csproj",
         "projectName": "exam",
-        "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\exam\\exam.csproj",
+        "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\exam\\exam.csproj",
         "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\exam\\obj\\",
+        "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

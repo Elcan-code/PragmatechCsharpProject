@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual App\\githubtest\\week3\\tasklar\\role\\role.csproj": {}
+    "D:\\Visual App\\git\\week3\\tasklar\\role\\role.csproj": {}
   },
   "projects": {
-    "D:\\Visual App\\githubtest\\week3\\tasklar\\role\\role.csproj": {
+    "D:\\Visual App\\git\\week3\\tasklar\\role\\role.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\role\\role.csproj",
+        "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\role\\role.csproj",
         "projectName": "role",
-        "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\role\\role.csproj",
+        "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\role\\role.csproj",
         "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\role\\obj\\",
+        "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\role\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

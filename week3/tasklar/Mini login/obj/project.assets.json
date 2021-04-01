@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\Mini login\\Mini login.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\Mini login\\Mini login.csproj",
       "projectName": "Mini login",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\Mini login\\Mini login.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\Mini login\\Mini login.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\Mini login\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\Mini login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

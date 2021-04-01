@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
+      "projectUniqueName": "D:\\Visual App\\git\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
       "projectName": "while ile consoledan daxil edilen ededden geriye dogru loop",
-      "projectPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
+      "projectPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual App\\githubtest\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\obj\\",
+      "outputPath": "D:\\Visual App\\git\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
