@@ -1,0 +1,13 @@
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.exe
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.deps.json
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.runtimeconfig.json
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.runtimeconfig.dev.json
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.dll
+D:\Visual App\githubtest\week3\tasklar\tasklar\bin\Debug\netcoreapp3.1\tasklar.pdb
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.csprojAssemblyReference.cache
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.AssemblyInfoInputs.cache
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.AssemblyInfo.cs
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.csproj.CoreCompileInputs.cache
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.dll
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.pdb
+D:\Visual App\githubtest\week3\tasklar\tasklar\obj\Debug\netcoreapp3.1\tasklar.genruntimeconfig.cache

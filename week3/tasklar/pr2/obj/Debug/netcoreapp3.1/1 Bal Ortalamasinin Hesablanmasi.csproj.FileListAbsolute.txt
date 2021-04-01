@@ -1,0 +1,12 @@
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.exe
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.deps.json
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.runtimeconfig.json
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.runtimeconfig.dev.json
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.dll
+D:\Visual App\githubtest\week3\tasklar\pr2\bin\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.pdb
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.AssemblyInfoInputs.cache
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.AssemblyInfo.cs
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.csproj.CoreCompileInputs.cache
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.dll
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.pdb
+D:\Visual App\githubtest\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.genruntimeconfig.cache
