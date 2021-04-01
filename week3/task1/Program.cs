@@ -6,7 +6,7 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            #region task 1
+            #region 1 Bal Ortalamasinin Hesablanmasi
             int a, b, c, d;
             Console.Write("Netice:");
             a = Convert.ToInt32(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace task1
             Console.WriteLine(netice);
             #endregion
 
-            #region task 2
+            #region 2.Bal Ortalamasinin Hesablanmasi
             string adsoyad1;
             int a1, b1, c1, d1, e1;
             Console.Write("Ad Soyad:");
@@ -38,7 +38,7 @@ namespace task1
             Console.WriteLine("Ortalama:" + c);
             #endregion
 
-            #region task 3
+            #region 3.Bal Ortalamasinin Hesablanmasi
             string adsoyad;
             int a2, b2, c2, d2, e;
             Console.Write("Ad Soyad:");
@@ -187,7 +187,108 @@ namespace task1
             }
             #endregion
 
+            #region calculate 
+            decimal ed1, ed2;
+            char emeliyyat;
+            Console.Write("Eded1 : "); ed1 = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine(" Toplama (+) , Cixma (-) , Vurma (x) , Bolme (/)  Daxil edin");
+            Console.Write("Emeliyyat : "); emeliyyat = Convert.ToChar(Console.ReadLine());
+            Console.Write("Eded2 : "); ed2 = Convert.ToDecimal(Console.ReadLine());
+            #region normal switch
+            switch (emeliyyat)
+            {
+                case '+':
+                    Console.WriteLine("Netice : " + (ed1 + ed2));
+                    break;
+                case '-':
+                    Console.WriteLine("Netice : " + (ed1 - ed2));
+                    break;
+                case 'x':
+                    Console.WriteLine("Netice : " + (ed1 * ed2));
+                    break;
+                case '/':
+                    Console.WriteLine("Netice : " + (ed1 / ed2));
+                    break;
+            }
+            #endregion
+            #region exp switch
 
+            var eml = emeliyyat switch
+            {
+                '+' => ed1 + ed2,
+                '-' => ed1 - ed2,
+                '/' => ed1 / ed2,
+                'x' => ed1 * ed2,
+            };
+            Console.WriteLine("Netice : " + eml);
+            #endregion
+
+            #endregion
+
+            #region menfi musbet
+            decimal in1;
+            Console.Write("Eded daxil et : ");
+            in1 = Convert.ToDecimal(Console.ReadLine());
+            #region if
+            if (in1 >= 0) { Console.WriteLine("Musbetdir"); }
+            else { Console.WriteLine("Menfidir"); }
+            #endregion
+            #region ternary
+            var vz = in1 < 0 ? "Menfidir" : "Musbetdir";
+            Console.WriteLine(vz);
+            #endregion
+            #endregion
+
+            #region vurma cedveli
+            int i, j;
+
+            for (i = 1; i < 10; i++)
+            {
+                for (j = 1; j < 10; j++)
+                {
+                    Console.Write(i + "x" + j + "=" + i * j + " ");
+                }
+                Console.WriteLine();
+            }
+            #endregion
+
+            #region exam
+
+            /*
+             * 1. int num1=10;
+             *    int num2=20;
+             *    bool result = num1 > num2;
+             *
+             *  asagidakilardan hansi uygun gelir ?
+             *
+             *Dogru cavab:  --- num1 deyeri num2 deyerinden kicikdir ve bool tipinde olan result
+             *                  deyiseni bu iki deyerin muqayisesinden false deyerini alir.
+             *
+             * num1 deyeri num2 deyerine beraberdir ve bool tipinde olan result
+             *  deyiseni true-dur.
+             *
+             ********************
+             * 2. int num1 = 100;
+             *
+             *    int num2 = 2;
+             *    
+             *    int result = (num1 + 10 ) / num2;
+             *    
+             *    Console.WriteLine(result);
+             *
+             * Result : 33;
+             *Dogru cavab --- Result : 55;
+             * Result : 66;
+             * ******************
+             * 3. Boyuk beraberdir  ve beraber deyildir operatorlari hansilardir.
+             *
+             * =! , ==
+             * == , <=
+             * >= , <=
+             *Dogru cavab -----  >= , !=
+             */
+
+            #endregion
         }
     }
 }
