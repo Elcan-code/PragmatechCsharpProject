@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual App\\git\\Week3Task\\Week3Task.csproj": {}
+    "D:\\Visual App\\git\\week3\\task1\\task1.csproj": {}
   },
   "projects": {
-    "D:\\Visual App\\git\\Week3Task\\Week3Task.csproj": {
+    "D:\\Visual App\\git\\week3\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual App\\git\\Week3Task\\Week3Task.csproj",
-        "projectName": "Week3Task",
-        "projectPath": "D:\\Visual App\\git\\Week3Task\\Week3Task.csproj",
+        "projectUniqueName": "D:\\Visual App\\git\\week3\\task1\\task1.csproj",
+        "projectName": "task1",
+        "projectPath": "D:\\Visual App\\git\\week3\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual App\\git\\Week3Task\\obj\\",
+        "outputPath": "D:\\Visual App\\git\\week3\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
