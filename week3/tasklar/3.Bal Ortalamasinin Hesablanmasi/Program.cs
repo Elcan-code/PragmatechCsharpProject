@@ -7,6 +7,35 @@ namespace _3.Bal_Ortalamasinin_Hesablanmasi
         static void Main(string[] args)
         {
             #region 3.Bal Ortalamasinin Hesablanmasi
+            /*
+            * 3.Bal Ortalamasinin Hesablanmasi
+            *
+            * istifadeciden ad ve soyadini ,
+            *  4 eded imtahan neticesini daxil etmesini isteyirik.
+            *
+             *
+             * ortalama 45-den kicikdirse : qeyri-kafi Kece bilmediz
+             * ortalama 45-e beraber ve ya 70-den  kicikdirse :  Meqbul
+             * ortalama 70-e beraber ve ya 90-dan  kicikdirse :  Yaxsi
+             * ortalama 90 ile  100 arasinda (100-de daxil) :  Ela
+             *
+             * qeyd : ortalama 100-den boyuk ola bilmez.
+             *
+            * netice asagidaki kimi olmalidir.
+            *
+            * Ad ve Soyad : Parviz Aliyev
+            *
+            * Netice : 50
+            * Netice : 40
+            * Netice : 30
+            * Netice : 20
+            *
+            * Ortalama : 35
+            * Semestr Yekunu : qeyri-kafi Kece bilmediz
+            */
+
+
+
             string namesurname;
             int score1, score2, score3, score4, total;
             Console.Write("Ad Soyad:");

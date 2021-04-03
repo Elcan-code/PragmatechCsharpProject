@@ -7,6 +7,12 @@ namespace calculate
         static void Main(string[] args)
         {
             #region calculate 
+             /*
+             * switch istifade ederek calculator yazin
+             *
+             * qeyd: hem normal switchden istifade edin hem de expressionla olan variantla
+             */
+
             decimal num1, num2;
             char operation;
             Console.Write("Eded1 : "); num1 = Convert.ToDecimal(Console.ReadLine());

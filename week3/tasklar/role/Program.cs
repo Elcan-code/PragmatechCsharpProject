@@ -8,6 +8,22 @@ namespace role
         {
 
             #region role
+            /*
+             * Istifadeciden role(selahiyyet) isteyerek daxil etdiyi role uygun mesaj verin.
+             *
+             *  Istifadeci selahiyyeti (I.S) :
+             *
+             * I.S = AA , BB , CC ise "Admin selahiyyetlerine sahibsiniz."
+             * I.S = MM "Moderator selahiyyetlerine sahibsiniz."
+             * I.S = MH "Muhasib selahiyyetlerine sahibsiniz."
+             * I.S = UU "Standart istifadeci selahiyyetlerine sahibsiniz."
+             *
+             * qeyd edilenlerden ferqli olarsa : "Daxil edilen selahiyyet dogru deyil"
+             *
+             * switchden istifade edin.
+             */
+
+
             string input;
             Console.Write("Melumat Daxil Et : ");
             input = Console.ReadLine();

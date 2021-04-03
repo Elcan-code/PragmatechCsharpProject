@@ -7,6 +7,12 @@ namespace menfi_musbet
         static void Main(string[] args)
         {
             #region menfi musbet
+            /*
+             * Daxil edilen ededin menfi ve ya musbet oldugunu yoxlayin ona uygun geriye deyer qaytarin.
+             *
+             * qeyd: if ve ternary istifade edin ayri ayri
+             */
+
             decimal num;
             Console.Write("Eded daxil et : ");
             num = Convert.ToDecimal(Console.ReadLine());
