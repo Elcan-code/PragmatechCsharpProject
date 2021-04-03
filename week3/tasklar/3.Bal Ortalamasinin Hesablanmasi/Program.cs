@@ -7,42 +7,42 @@ namespace _3.Bal_Ortalamasinin_Hesablanmasi
         static void Main(string[] args)
         {
             #region 3.Bal Ortalamasinin Hesablanmasi
-            string adsoyad;
-            int a2, b2, c2, d2, e;
+            string namesurname;
+            int score1, score2, score3, score4, total;
             Console.Write("Ad Soyad:");
-            adsoyad = Console.ReadLine();
+            namesurname = Console.ReadLine();
             Console.WriteLine();
             Console.Write("Netice:");
-            a2 = Convert.ToInt32(Console.ReadLine());
+            score1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            b2 = Convert.ToInt32(Console.ReadLine());
+            score2 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            c2 = Convert.ToInt32(Console.ReadLine());
+            score3 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            d2 = Convert.ToInt32(Console.ReadLine());
-            e = (a2 + b2 + c2 + d2) / 4;
+            score4 = Convert.ToInt32(Console.ReadLine());
+            total= (score1 + score2 + score3 + score4) / 4;
 
-            if (e > 100 || e < 0) { Console.WriteLine("Neticeleri Dogru Daxil Edin"); }
+            if (total> 100 || total < 0) { Console.WriteLine("Neticeleri Dogru Daxil Edin"); }
             else
             {
-                Console.WriteLine(adsoyad);
+                Console.WriteLine(namesurname);
                 Console.WriteLine();
-                Console.WriteLine(e);
+                Console.WriteLine(total);
                 Console.WriteLine();
                 Console.Write("Semestr Yekunu : ");
-                if (e < 45)
+                if (total< 45)
                 {
                     Console.WriteLine("qeyri - kafi Kece bilmediz");
                 }
-                else if (e >= 45 && e < 70)
+                else if (total>= 45 && total< 70)
                 {
                     Console.WriteLine("Meqbul");
                 }
-                else if (e >= 70 && e < 90)
+                else if (total>= 70 && total< 90)
                 {
                     Console.WriteLine("Yaxsi");
                 }
-                else if (e >= 90 && e <= 100)
+                else if (total>= 90 && total<= 100)
                 {
                     Console.WriteLine("Ela");
                 }
