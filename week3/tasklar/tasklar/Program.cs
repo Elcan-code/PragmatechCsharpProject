@@ -9,40 +9,24 @@ namespace tasklar
            
 
             #region 2.Bal Ortalamasinin Hesablanmasi
-            string adsoyad1;
-            int a1, b1, c1, d1, e1;
+            string namesurname;
+            int score1, score2, score3, score4, average;
             Console.Write("Ad Soyad:");
-            adsoyad1 = Console.ReadLine();
+            namesurname = Console.ReadLine();
             Console.WriteLine();
             Console.Write("Netice:");
-            a1 = Convert.ToInt32(Console.ReadLine());
+            score1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            b1 = Convert.ToInt32(Console.ReadLine());
+            score2 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            c1 = Convert.ToInt32(Console.ReadLine());
+            score3 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            d1 = Convert.ToInt32(Console.ReadLine());
-            e1 = (a1 + b1 + c1 + d1) / 4;
+            score4 = Convert.ToInt32(Console.ReadLine());
+            average = (score1 + score2 + score3 + score4) / 4;
             Console.WriteLine();
-            Console.WriteLine("Ortalama:" + c);
+            Console.WriteLine("Ortalama:" + average);
             #endregion
-
-            
-
-            
-
-           
-
-            
-
-          
-
-
-           
-
-            
-
-           
+  
         }
     }
 }

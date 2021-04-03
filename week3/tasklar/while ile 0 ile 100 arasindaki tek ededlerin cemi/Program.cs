@@ -7,16 +7,16 @@ namespace while_ile_0_ile_100_arasindaki_tek_ededlerin_cemi
         static void Main(string[] args)
         {
             #region while ile 0 ile 100 arasindaki tek ededlerin cemi
-            int eded1 = 0, cem = 0;
+            int num = 0, sum = 0;
 
-            while (eded1 <= 100)
+            while (num <= 100)
             {
-                if (eded1 % 2 != 0) { cem += eded1; }
+                if (num % 2 != 0) { sum += num; }
 
 
-                eded1++;
+                num++;
             }
-            Console.WriteLine(cem);
+            Console.WriteLine(sum);
             #endregion
         }
     }

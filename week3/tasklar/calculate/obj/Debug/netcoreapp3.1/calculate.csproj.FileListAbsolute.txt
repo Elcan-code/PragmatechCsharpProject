@@ -1,0 +1,13 @@
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.exe
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.deps.json
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.json
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.runtimeconfig.dev.json
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.dll
+D:\Visual App\git\week3\tasklar\calculate\bin\Debug\netcoreapp3.1\calculate.pdb
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.csprojAssemblyReference.cache
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfoInputs.cache
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.AssemblyInfo.cs
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.csproj.CoreCompileInputs.cache
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.dll
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.pdb
+D:\Visual App\git\week3\tasklar\calculate\obj\Debug\netcoreapp3.1\calculate.genruntimeconfig.cache

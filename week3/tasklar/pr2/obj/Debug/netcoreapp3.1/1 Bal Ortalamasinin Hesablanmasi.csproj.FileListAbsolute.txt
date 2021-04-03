@@ -22,3 +22,4 @@ D:\Visual App\git\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin 
 D:\Visual App\git\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.dll
 D:\Visual App\git\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.pdb
 D:\Visual App\git\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.genruntimeconfig.cache
+D:\Visual App\git\week3\tasklar\pr2\obj\Debug\netcoreapp3.1\1 Bal Ortalamasinin Hesablanmasi.csprojAssemblyReference.cache

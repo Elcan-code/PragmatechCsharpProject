@@ -6,17 +6,18 @@ namespace yekun
     {
         static void Main(string[] args)
         {
+
             #region 1 Bal Ortalamasinin Hesablanmasi
-            int a, b, c, d;
+            int score1, score2, score3, average;
             Console.Write("Netice:");
-            a = Convert.ToInt32(Console.ReadLine());
+            score1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            b = Convert.ToInt32(Console.ReadLine());
+            score2 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Netice:");
-            c = Convert.ToInt32(Console.ReadLine());
-            d = (a + b + c) / 3;
-            var netice = d >= 45 ? "Beli" : "Xeyr";
-            Console.WriteLine(netice);
+            score3 = Convert.ToInt32(Console.ReadLine());
+            average = (score1 + score2 + score3) / 3;
+            var result = average >= 45 ? "YES" : "NO";
+            Console.WriteLine(result);
             #endregion
 
             #region 2.Bal Ortalamasinin Hesablanmasi

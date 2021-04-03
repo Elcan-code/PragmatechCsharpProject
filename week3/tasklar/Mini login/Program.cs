@@ -11,14 +11,14 @@ namespace Mini_login
 
 
             string Username, Password;
-            string us = "admin";
-            string ps = "adminpass";
+            string myusername = "admin";
+            string mypassword = "adminpass";
             Console.Write("Username : ");
             Username = Console.ReadLine();
             Console.Write("Password : ");
             Password = Console.ReadLine();
             #region if
-            if (Username == us && Password == ps)
+            if (Username == myusername && Password == mypassword)
             {
                 Console.WriteLine("Ugurlu Emeliyyat");
             }
@@ -27,13 +27,13 @@ namespace Mini_login
             #endregion
 
             #region ternary
-            var yoxla = Username == us && Password == ps ? "Ugurlu emeliyyat" : "Emeliyyat ugursuz oldu";
+            var yoxla = Username == myusername && Password == mypassword ? "Ugurlu emeliyyat" : "Emeliyyat ugursuz oldu";
             Console.WriteLine(yoxla);
             #endregion
             #region Switch
             switch (Username)
             {
-                case "admin" when Password == ps:
+                case "admin" when Password == mypassword:
                     Console.WriteLine("Ugurlu Emeliyyat");
                     break;
 

@@ -7,39 +7,39 @@ namespace calculate
         static void Main(string[] args)
         {
             #region calculate 
-            decimal ed1, ed2;
-            char emeliyyat;
-            Console.Write("Eded1 : "); ed1 = Convert.ToDecimal(Console.ReadLine());
+            decimal num1, num2;
+            char operation;
+            Console.Write("Eded1 : "); num1 = Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine(" Toplama (+) , Cixma (-) , Vurma (x) , Bolme (/)  Daxil edin");
-            Console.Write("Emeliyyat : "); emeliyyat = Convert.ToChar(Console.ReadLine());
-            Console.Write("Eded2 : "); ed2 = Convert.ToDecimal(Console.ReadLine());
+            Console.Write("Emeliyyat : "); operation = Convert.ToChar(Console.ReadLine());
+            Console.Write("Eded2 : "); num2 = Convert.ToDecimal(Console.ReadLine());
             #region normal switch
-            switch (emeliyyat)
+            switch (operation)
             {
                 case '+':
-                    Console.WriteLine("Netice : " + (ed1 + ed2));
+                    Console.WriteLine("Netice : " + (num1 + num2));
                     break;
                 case '-':
-                    Console.WriteLine("Netice : " + (ed1 - ed2));
+                    Console.WriteLine("Netice : " + (num1 - num2));
                     break;
                 case 'x':
-                    Console.WriteLine("Netice : " + (ed1 * ed2));
+                    Console.WriteLine("Netice : " + (num1 * num2));
                     break;
                 case '/':
-                    Console.WriteLine("Netice : " + (ed1 / ed2));
+                    Console.WriteLine("Netice : " + (num1 / num2));
                     break;
             }
             #endregion
             #region exp switch
 
-            var eml = emeliyyat switch
+            var result = operation switch
             {
-                '+' => ed1 + ed2,
-                '-' => ed1 - ed2,
-                '/' => ed1 / ed2,
-                'x' => ed1 * ed2,
+                '+' => num1 + num2,
+                '-' => num1 - num2,
+                '/' => num1 / num2,
+                'x' => num1 * num2,
             };
-            Console.WriteLine("Netice : " + eml);
+            Console.WriteLine("Netice : " + result);
             #endregion
 
             #endregion

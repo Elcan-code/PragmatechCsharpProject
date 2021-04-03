@@ -7,16 +7,16 @@ namespace while_ile_faktorialin_hesablanmasi
         static void Main(string[] args)
         {
             #region while ile faktorialin hesablanmasi
-            int number, hasil = 1;
+            int number, total = 1;
             Console.Write("Eded daxil et : ");
             number = Convert.ToInt32(Console.ReadLine());
             while (number > 0)
             {
-                hasil *= number;
+                total *= number;
 
                 number--;
             }
-            Console.WriteLine(hasil);
+            Console.WriteLine(total);
             #endregion
         }
     }

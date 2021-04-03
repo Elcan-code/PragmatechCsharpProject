@@ -7,15 +7,15 @@ namespace menfi_musbet
         static void Main(string[] args)
         {
             #region menfi musbet
-            decimal in1;
+            decimal num;
             Console.Write("Eded daxil et : ");
-            in1 = Convert.ToDecimal(Console.ReadLine());
+            num = Convert.ToDecimal(Console.ReadLine());
             #region if
-            if (in1 >= 0) { Console.WriteLine("Musbetdir"); }
+            if (num >= 0) { Console.WriteLine("Musbetdir"); }
             else { Console.WriteLine("Menfidir"); }
             #endregion
             #region ternary
-            var vz = in1 < 0 ? "Menfidir" : "Musbetdir";
+            var vz = num < 0 ? "Menfidir" : "Musbetdir";
             Console.WriteLine(vz);
             #endregion
             #endregion
