@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "I6UCS5v60hFy8AQTd2Wk/Jkq2Lr0VwHzBArjf8pZqI9BfbmBa7y8PGMQSKj3DWz5nWNU98Z9flQErqxmJtmfhw==",
+  "dgSpecHash": "XtO8ZjJ3MnD5/OJ9NNHYQ+wZg/sR+ruf/IccZq+c63eNes7x8z+MyVPYPieJ2ZIIojYwN6nJGGG2y7A5saG22A==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\role\\role.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\role\\role.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

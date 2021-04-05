@@ -1,3 +1,11 @@
+﻿using System;
+
+namespace week4_task
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             #region 1.
             /*
@@ -114,54 +122,54 @@
              * 1 eded 5 azn
              *
              */
-         //   string value; int result= 0;
-         //int cash1 = 0, cash2 = 0, cash3 = 0, cash4 = 0, cash5 = 0, cash6 = 0; ;
-         //   Console.WriteLine("Eskinazlar : 1 , 5 , 10 , 20 , 50 , 100 , 200 Emeliyyati sonlandirmaq ucun E daxil edin ");
-         //   while (true)
-         //   {
-         //          Console.Write("Meblegi daxil edin : ");
-         //       value=Console.ReadLine();
-         //       if (value == "E") { break; }
-         //       else result = Convert.ToInt32(value);
-         //       if (result >= 200)
-         //       {
-         //           cash1 = result / 200;
-         //           result -= cash1 * 200;
-         //           Console.WriteLine(cash1 + " Eded 200 manat");
-         //       }
-         //       if (result>=100) {
-         //           cash2 = result / 100;
-         //           result -= cash2 * 100;
-         //           Console.WriteLine(cash2 + " Eded 100 manat");
-         //       }
-         //       if (result >= 50)
-         //       {
-         //           cash3 = result / 50;
-         //           result -= cash3 * 50;
-         //           Console.WriteLine(cash3 + " Eded 50 manat");
-         //       }
-         //       if (result >=10)
-         //       {
-         //           cash4 = result / 10;
-         //           result -= cash4 * 10;
-         //           Console.WriteLine(cash4 + " Eded 10 manat");
-         //       }
-         //       if (result >=5)
-         //       {
-         //           cash5 = result / 5;
-         //           result -= cash5 * 5;
-         //           Console.WriteLine(cash5 + " Eded 5 manat");
-         //       }
-         //       if (result >= 1 && result<5)
-         //       {
-         //           cash6 = result;
-         //           Console.WriteLine(cash6 + " Eded 1 manat");
+            //   string value; int result= 0;
+            //int cash1 = 0, cash2 = 0, cash3 = 0, cash4 = 0, cash5 = 0, cash6 = 0; ;
+            //   Console.WriteLine("Eskinazlar : 1 , 5 , 10 , 20 , 50 , 100 , 200 Emeliyyati sonlandirmaq ucun E daxil edin ");
+            //   while (true)
+            //   {
+            //          Console.Write("Meblegi daxil edin : ");
+            //       value=Console.ReadLine();
+            //       if (value == "E") { break; }
+            //       else result = Convert.ToInt32(value);
+            //       if (result >= 200)
+            //       {
+            //           cash1 = result / 200;
+            //           result -= cash1 * 200;
+            //           Console.WriteLine(cash1 + " Eded 200 manat");
+            //       }
+            //       if (result>=100) {
+            //           cash2 = result / 100;
+            //           result -= cash2 * 100;
+            //           Console.WriteLine(cash2 + " Eded 100 manat");
+            //       }
+            //       if (result >= 50)
+            //       {
+            //           cash3 = result / 50;
+            //           result -= cash3 * 50;
+            //           Console.WriteLine(cash3 + " Eded 50 manat");
+            //       }
+            //       if (result >=10)
+            //       {
+            //           cash4 = result / 10;
+            //           result -= cash4 * 10;
+            //           Console.WriteLine(cash4 + " Eded 10 manat");
+            //       }
+            //       if (result >=5)
+            //       {
+            //           cash5 = result / 5;
+            //           result -= cash5 * 5;
+            //           Console.WriteLine(cash5 + " Eded 5 manat");
+            //       }
+            //       if (result >= 1 && result<5)
+            //       {
+            //           cash6 = result;
+            //           Console.WriteLine(cash6 + " Eded 1 manat");
 
-         //       }
-                
+            //       }
 
-         //   }
-            
+
+            //   }
+
 
 
 
@@ -246,4 +254,6 @@
             //}
             //Console.WriteLine("Netice : "+value);
             #endregion
-           
+        }
+    }
+}

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YjD+wyQp0XCua4S5OlHsdZ54VLQAhs0T6b2spTvuJXQhii6bF0lunWuZSZAM7N2VR+bbQg7dYOJ94UU4cVJpWA==",
+  "dgSpecHash": "CIBvF9dA4MP19wVJcoPo55C/MGCha/gmcQfrUy3e3XzzjZLgHxh4xJgXl8BhKwPGFZyVFurea/fkevdxhSZu8g==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

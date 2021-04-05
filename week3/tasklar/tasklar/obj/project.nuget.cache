@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a+rZDAQVIBBiCAOsK2Vy+aIQe/n0WrGZKTxM3qrWmIC/Qwq35zB7d9+sgPmLt6dSZuoN0pYqCHLFdqSFAp4o/Q==",
+  "dgSpecHash": "0dXslXJ2p+TK1X6cKAw6NnW63lj2F41fH3hK8tTatTjfiARyb5A8FRiYN4L5XtBkBqKLdOcjysyl90Yu4PUpJw==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\tasklar\\2.Bal Ortalamasinin Hesablanmasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Cc5j+WqBwBXRVTVULD69qeO0TwWbx3GtqLAm+zQa0MWiArMuRQu40WYvKE9t76FQoItNqgZX92HlYwS1CNZzYg==",
+  "dgSpecHash": "nkv8EHcd/IwgveB0VaLtUET8AQ5CPmj2+9Yaa7uxkOl9pk3dQSaGsSFka8Ju6/qKzJXYSh6Fasx9HqaPwVAPlw==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

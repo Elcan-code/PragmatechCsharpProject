@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yrryQLOpi+ZYi7AGBCRYmtv5u9mNIFXQ9I4pDqiqHza1TaLIYdoWeS1kvYlP2mCczLSfGbq9uEgV1gT4UtD6Pw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual App\\yeni\\week4 task\\week4 task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

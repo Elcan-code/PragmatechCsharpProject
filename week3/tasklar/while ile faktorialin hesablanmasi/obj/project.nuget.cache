@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "y0Uy9KCjK2Nc2DuOuXD4vhfvYlm5q3P9eBpQ/fj+t5q182AOYFX7Ceta1ZjJs6LejipbYgbsXCPbf99ob5wAmg==",
+  "dgSpecHash": "XmWcdFiq+hAK+hwUNk91EEsAwbFlGmxY5XJGCudD8CT3R6jFDxkzxx22Ml2qiT98SFZAv7TVeMBNIiJ5JFW3Pg==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\while ile faktorialin hesablanmasi\\while ile faktorialin hesablanmasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

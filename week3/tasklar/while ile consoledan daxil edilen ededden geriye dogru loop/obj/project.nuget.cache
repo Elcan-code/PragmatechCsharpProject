@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4+VEjj4LykMEpkPxi+7Sg7tmBpyHMW1eCWcexZ0tKAlE8bvzMLd3lCDtxmmDIagthFsSRO01IEoX5BPl60yGxg==",
+  "dgSpecHash": "pxQgj4Le85itEoXEmMKEe1Yx4sb88TXAj2XOp47voPZS9/495OVkFUCMaY4nh5vXS321ZLhO8naUDHCAExb5wQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\git\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\while ile consoledan daxil edilen ededden geriye dogru loop\\while ile consoledan daxil edilen ededden geriye dogru loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
