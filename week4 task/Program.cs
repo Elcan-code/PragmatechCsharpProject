@@ -129,14 +129,14 @@ namespace week4_task
                 Console.WriteLine("-------------------------------- ");
                 int[] cash = new int[] { 200, 100, 50, 20, 10, 5, 1 };
                 Console.Write("Pulu daxil edin : ");
-                int mony = Convert.ToInt32(Console.ReadLine());
+                int money = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("-------------------------------- ");
                 foreach (int item in cash)
                 {
-                    if (mony >= item)
+                    if (money >= item)
                     {
-                        Console.WriteLine(mony / item + " Eded " + item + " Manat");
-                            mony = mony % item;
+                        Console.WriteLine(money / item + " Eded " + item + " Manat");
+                            money = money % item;
                     }
                 }
                 Console.WriteLine("-------------------------------- ");
