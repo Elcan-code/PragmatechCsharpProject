@@ -122,6 +122,38 @@ namespace week4_task
              * 1 eded 5 azn
              *
              */
+            //-------- brinci hell
+             while (true)
+            {
+                Console.WriteLine("Bankomatda Olan Esginazlar : (200 , 100 , 50 , 20 , 10 , 5 , 1)");
+                Console.WriteLine("-------------------------------- ");
+                int[] cash = new int[] { 200, 100, 50, 20, 10, 5, 1 };
+                Console.Write("Pulu daxil edin : ");
+                int mony = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("-------------------------------- ");
+                foreach (int item in cash)
+                {
+                    if (mony >= item)
+                    {
+                        Console.WriteLine(mony / item + " Eded " + item + " Manat");
+                            mony = mony % item;
+                    }
+                }
+                Console.WriteLine("-------------------------------- ");
+                Console.WriteLine("Cıxmaq üçün X Davam etmek üçün D ");
+                if (Console.ReadLine().ToLower() == "x")
+                {
+                    break;
+                }
+            }
+
+
+
+             //----------  ikinci hell
+
+
+
+
             //   string value; int result= 0;
             //int cash1 = 0, cash2 = 0, cash3 = 0, cash4 = 0, cash5 = 0, cash6 = 0; ;
             //   Console.WriteLine("Eskinazlar : 1 , 5 , 10 , 20 , 50 , 100 , 200 Emeliyyati sonlandirmaq ucun E daxil edin ");
@@ -169,6 +201,12 @@ namespace week4_task
 
 
             //   }
+      
+
+           
+
+
+
 
 
 

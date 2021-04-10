@@ -1,0 +1,4 @@
+D:\Visual App\yeni\week4 task\obj\Debug\netcoreapp3.1\week4 task.csprojAssemblyReference.cache
+D:\Visual App\yeni\week4 task\obj\Debug\netcoreapp3.1\week4 task.AssemblyInfoInputs.cache
+D:\Visual App\yeni\week4 task\obj\Debug\netcoreapp3.1\week4 task.AssemblyInfo.cs
+D:\Visual App\yeni\week4 task\obj\Debug\netcoreapp3.1\week4 task.csproj.CoreCompileInputs.cache
