@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\week3",
+    "\\week4 task",
+    "\\week5task"
   ],
-  "SelectedNode": "\\week4 task",
+  "SelectedNode": "\\week5task\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
