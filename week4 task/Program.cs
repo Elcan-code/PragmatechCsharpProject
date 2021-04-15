@@ -272,7 +272,7 @@ namespace week4_task
             #region 7.
             //Console.Write("Brinici ededi daxil et : ");
             //decimal number1 = Convert.ToDecimal(Console.ReadLine());
-            //Console.Write("Brinici ededi daxil et : ");
+            //Console.Write("Ikinci ededi daxil et : ");
             //decimal number2 = Convert.ToDecimal(Console.ReadLine());
             //decimal value=0;
             //if (number1 > number2)
