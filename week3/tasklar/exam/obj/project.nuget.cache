@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHQ/LyZ4s5L6lglUKI6TqGqaaPyKqPiSfklCq/fW7aG7fJjWP+7xRg4vlwhtT7TgASEJcCBWBXvEWtuL+bVHOQ==",
+  "dgSpecHash": "khdD4V7wnY75kOK1TDO9RyAjEMj/KJCud8z/JAvSjZT9icQrtEW/QE2OdvlJjXzPw7Y29zgiGRpauP14TupsVg==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\exam\\exam.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\exam\\exam.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

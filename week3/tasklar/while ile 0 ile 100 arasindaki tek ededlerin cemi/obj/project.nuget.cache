@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQ8RtKXVVqyO4w5w/mE5bzQL0V12anYiB01PY2tuMvpF9eyV6VSyvksS+T/kk5aMQrKISi5YoQLpN+eP8o9Utg==",
+  "dgSpecHash": "+iLadQDISZAN/kfPXnLD/KrVaXOHmMZZXKFXTfpMauNMDPh8PoeT6JCCUon5xxv6n+smOaUWo4POPB2bRYfzrw==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\while ile 0 ile 100 arasindaki tek ededlerin cemi\\while ile 0 ile 100 arasindaki tek ededlerin cemi.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

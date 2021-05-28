@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlcOIM+zIWx4cMVvYAJ+IcwxcWPojd24flU7iuELdvXhcRpXVSsetX6AhKgyG5qXcE0+8j9Yk4IPTymDhlb6aw==",
+  "dgSpecHash": "dJg+eUQ1v4+acCVEFNtYt+TD1aHDVTtGzWLO+rmBx8eSBS8La1Lh0j0ts0i1MKof7kZQm7Yki06O2HUqnvr5iQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual App\\yeni\\week3\\tasklar\\Mini login\\Mini login.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\elcan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\Mini login\\Mini login.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
