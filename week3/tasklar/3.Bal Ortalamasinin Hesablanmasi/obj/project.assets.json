@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\3.Bal Ortalamasinin Hesablanmasi.csproj",
+      "projectUniqueName": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\3.Bal Ortalamasinin Hesablanmasi.csproj",
       "projectName": "3.Bal Ortalamasinin Hesablanmasi",
-      "projectPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\3.Bal Ortalamasinin Hesablanmasi.csproj",
+      "projectPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\3.Bal Ortalamasinin Hesablanmasi.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\obj\\",
+      "outputPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\3.Bal Ortalamasinin Hesablanmasi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

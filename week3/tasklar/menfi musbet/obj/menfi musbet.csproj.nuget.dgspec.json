@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj": {}
+    "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj": {
+    "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
+        "projectUniqueName": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
         "projectName": "menfi musbet",
-        "projectPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
+        "projectPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\menfi musbet\\menfi musbet.csproj",
         "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\menfi musbet\\obj\\",
+        "outputPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\menfi musbet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

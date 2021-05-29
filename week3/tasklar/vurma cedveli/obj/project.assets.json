@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
+      "projectUniqueName": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
       "projectName": "vurma cedveli",
-      "projectPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
+      "projectPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\vurma cedveli\\vurma cedveli.csproj",
       "packagesPath": "C:\\Users\\elcan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\vurma cedveli\\obj\\",
+      "outputPath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\vurma cedveli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

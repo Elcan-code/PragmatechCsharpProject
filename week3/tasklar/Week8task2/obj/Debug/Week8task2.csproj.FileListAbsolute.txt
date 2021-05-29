@@ -1,0 +1,10 @@
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.csprojAssemblyReference.cache
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.Form1.resources
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.Properties.Resources.resources
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.csproj.GenerateResource.cache
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.csproj.CoreCompileInputs.cache
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\bin\Debug\Week8task2.exe.config
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\bin\Debug\Week8task2.exe
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\bin\Debug\Week8task2.pdb
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.exe
+C:\Users\elcan\source\repos\GitHubC#\week3\tasklar\Week8task2\obj\Debug\Week8task2.pdb

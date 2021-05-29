@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "turk46nbAGmt0MgxNsu8NxX5KRdHdRDLjqeUjd8bKpFENLljVFI9JPiEy0JWUXjBIZJsxewiNF4gdishoQfGVA==",
+  "dgSpecHash": "tKf+4/mkgn9sAnjsEW4iPRsiPYs5ZobIgKjGVnyaYLfRCgcm0we/PJZeIQLWGYC62x38wLjnFet6lrUCc5285A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elcan\\source\\repos\\GitHubRepo\\week3\\tasklar\\calculate\\calculate.csproj",
+  "projectFilePath": "C:\\Users\\elcan\\Source\\Repos\\GitHubC#\\week3\\tasklar\\calculate\\calculate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
