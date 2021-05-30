@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8task3", "..\..\Week8ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusteriTask1", "..\..\Week8Task\MusteriTask1\MusteriTask1.csproj", "{5681467C-C8AE-4639-A44A-816F4591975E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HovuzTask4", "..\..\Week8Task\HovuzTask4\HovuzTask4.csproj", "{2EECB427-F553-4232-9DC3-F704C3BB5E54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5681467C-C8AE-4639-A44A-816F4591975E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5681467C-C8AE-4639-A44A-816F4591975E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5681467C-C8AE-4639-A44A-816F4591975E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EECB427-F553-4232-9DC3-F704C3BB5E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EECB427-F553-4232-9DC3-F704C3BB5E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EECB427-F553-4232-9DC3-F704C3BB5E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EECB427-F553-4232-9DC3-F704C3BB5E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
