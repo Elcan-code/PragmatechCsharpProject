@@ -27,11 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vurma cedveli", "vurma cedv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exam", "exam\exam.csproj", "{F7C15BD5-39B6-400D-B5A4-4247FE6A321C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musteri", "..\..\Week8Task\WindowsFormsApp1\Musteri.csproj", "{3D95A404-523A-495E-AE5C-7D013826301D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8task2", "Week8task2\Week8task2.csproj", "{522E336F-42B2-4655-AF12-29EF0C6E62E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8task3", "..\..\Week8task\Week8task3\Week8task3.csproj", "{AEE5D427-573F-45AB-AD8C-B10AB675CA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusteriTask1", "..\..\Week8Task\MusteriTask1\MusteriTask1.csproj", "{5681467C-C8AE-4639-A44A-816F4591975E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,10 +87,6 @@ Global
 		{F7C15BD5-39B6-400D-B5A4-4247FE6A321C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7C15BD5-39B6-400D-B5A4-4247FE6A321C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7C15BD5-39B6-400D-B5A4-4247FE6A321C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D95A404-523A-495E-AE5C-7D013826301D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D95A404-523A-495E-AE5C-7D013826301D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D95A404-523A-495E-AE5C-7D013826301D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D95A404-523A-495E-AE5C-7D013826301D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{522E336F-42B2-4655-AF12-29EF0C6E62E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{522E336F-42B2-4655-AF12-29EF0C6E62E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{522E336F-42B2-4655-AF12-29EF0C6E62E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,6 +95,10 @@ Global
 		{AEE5D427-573F-45AB-AD8C-B10AB675CA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE5D427-573F-45AB-AD8C-B10AB675CA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE5D427-573F-45AB-AD8C-B10AB675CA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5681467C-C8AE-4639-A44A-816F4591975E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5681467C-C8AE-4639-A44A-816F4591975E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5681467C-C8AE-4639-A44A-816F4591975E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5681467C-C8AE-4639-A44A-816F4591975E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
