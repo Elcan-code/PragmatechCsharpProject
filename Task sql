@@ -85,8 +85,8 @@ S	Yellow	4
 M	Black	20
 
 */
-
-select Size, Color, SafetyStockLevel from Production.Product where Size!='null' and Color!='null'
+select Size, Color, SUM(SafetyStockLevel) from Production.Product where Size!='null' and Color!='null'
+Group by Size,Color order by Size desc 
 
 /*
 Production.Product , Sales.SalesOrderDetail 
