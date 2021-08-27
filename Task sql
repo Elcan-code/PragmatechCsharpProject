@@ -102,9 +102,10 @@ Yellow	S	 631677	        31970,7184
 White	M	 651574	        5332,1466
 */
 
-select pr.Color,pr.Size,so.UnitPrice from Production.Product pr
-join Sales.SalesOrderDetail so on pr.ProductID=so.ProductID
-GROUP BY pr.Color,pr.Size,so.UnitPrice
+select pr.Color,pr.Size,SUM(so.UnitPrice) as UnitPrice,SUM(pr.ProductID) as ProductCount   
+from Production.Product pr 
+join Sales.SalesOrderDetail so on pr.ProductID=so.ProductID where size!='null'
+GROUP BY pr.Color,pr.Size
 order by(Size) desc
 
 
